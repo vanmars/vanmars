@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there, I'm Vanessa!
 
-<!--
-**vanmars/vanmars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I taught middle and high school English for five years before deciding to learn to program so that I could design my own edtech tools. Coding unearthed passions for puzzles and problem-solving and the creative process. I love being able to work patiently and methodically through a problem to create tools that actually matter.
 
-Here are some ideas to get you started:
+## What I'm Working On
+- 🔭 I’m currently in a 5 month developer bootcamp through Epicodus: https://www.epicodus.com/
+- 🌱 I’ll be adding React and C#/.Net to my repertoire along with over 800 hours of pair programming!
+- 👯 I’m looking to collaborate on projects that challenge me and serve others. I am particularly interestes in the learning and education space.
+- 💬 Ask me about education technology and learning theory.
+- 📫 How to reach me: vanmariestewart@gmail.com
+- 😄 Pronouns: she/her
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
