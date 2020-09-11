@@ -1,5 +1,4 @@
 # Hi there, I'm Vanessa!
-{: .alert .alert-gitlab-purple}
 
 ----
 
