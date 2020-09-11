@@ -1,4 +1,7 @@
 # Hi there, I'm Vanessa!
+{: .alert .alert-gitlab-purple}
+
+----
 
 ## About Me
 I taught middle and high school English for five years before deciding to learn to program so that I could design my own edtech tools. Coding unearthed passions for puzzles and problem-solving and the creative process. I love being able to work patiently and methodically through a problem to create tools that actually matter.
