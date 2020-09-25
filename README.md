@@ -5,7 +5,7 @@ I taught middle and high school English for five years before deciding to learn 
 
 ## What I'm Working On
 - 🔭  I’m currently in a 5-month developer bootcamp through Epicodus: https://www.epicodus.com/
-- 🌱  I’ll be adding React and C#/.Net to my repertoire along with over 800 hours of pair programming!
+- 🌱  I’ll be adding React and Ruby/Ruby on Rails to my repertoire along with over 800 hours of pair programming!
 - 👯  I’m looking to collaborate on projects that challenge me and serve others. I am particularly interested in projects related to learning and education.
 - 💬  Ask me about education technology and learning theory.
 - 📫  How to reach me: vanmariestewart@gmail.com
