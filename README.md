@@ -13,7 +13,9 @@ I taught middle and high school English for five years before deciding to learn 
 :herb:  I’ll be adding React and Ruby/Ruby on Rails to my repertoire along with over 800 hours of pair programming!
 
 :herb:  I’m looking to collaborate on projects that challenge me and serve others. I am particularly interested in projects related to learning and education.
+
 <hr>
+
 - :speech_balloon:  Ask me about education technology and learning theory.
 - :mailbox:  How to reach me: vanmariestewart@gmail.com
 
