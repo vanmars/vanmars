@@ -1,4 +1,4 @@
-<img src='https://images.unsplash.com/photo-1524260855046-f743b3cdad07?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1101&q=80' alt='Evergreen trees covered in mist'>
+<img src='https://images.unsplash.com/photo-1524260855046-f743b3cdad07?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1101&q=80' alt='Evergreen trees covered in mist' style="height:200px; width: auto">
 
 # Hi there, I'm Vanessa!
 
@@ -16,4 +16,5 @@ I taught middle and high school English for :five: years before deciding to lear
 - 😄  Pronouns: she/her
 
 
+<hr>
 <span>Photo by <a href="https://unsplash.com/@johnwestrock?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Dave Hoefler</a> on <a href="https://unsplash.com/s/photos/pacific-northwest?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
