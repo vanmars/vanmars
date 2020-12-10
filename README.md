@@ -8,7 +8,7 @@
 I taught middle and high school English for five years before deciding to learn to program so that I could design my own EdTech tools. Coding unearthed passions for puzzles and problem-solving and the creative process. 
 
 ## What I'm Working On
-:herb:  I’m currently in a 5-month developer bootcamp through [Epicodus](https://www.epicodus.com/).
+:herb:  I’m currently in a 5-month developer bootcamp through [Epicodus](https://www.epicodus.com/) (Aug - December 2020.
 
 :herb:  I’ll be adding React and Ruby/Ruby on Rails to my repertoire along with over 800 hours of pair programming!
 
