@@ -8,9 +8,9 @@
 I taught middle and high school English for five years before deciding to learn to program so that I could design my own EdTech tools. Coding unearthed passions for puzzles and problem-solving and the creative process. 
 
 ## What I'm Working On
-:herb:  I’m currently in a 5-month developer bootcamp through [Epicodus](https://www.epicodus.com/) (Aug - December 2020.
+:herb:  I’m currently in a 5-week internship at [JobsMight](https://www.jobsmight.io/).
 
-:herb:  I’ll be adding React and Ruby/Ruby on Rails to my repertoire along with over 800 hours of pair programming!
+:herb:  After the internship, I'll be working with [SlideFactory](https://theslidefactory.com/), a Portland-based design and development agency, as a freelance front-end developer!
 
 :herb:  I’m looking to collaborate on projects that challenge me and serve others. I am particularly interested in projects related to learning and education.
 
