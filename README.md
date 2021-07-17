@@ -10,7 +10,7 @@ I taught middle and high school English for five years before deciding to learn 
 ## What I'm Working On
 :herb:  I recently graduated from a 5-month web and mobile development immersive through Epidcodus, where I enjoyed pair programming daily, building cool projects, and strengthening my JavaScript skills while adding Ruby, Rails, and React.js to my repetoire. I then completed two internships, both using React, to gain more real-world experience.
 
-:herb:  I am currently working at an agency where I get to contribute to a variety of projects that use a nice diversity of tech stacks. I LOVE learning new things, so it is an absolute joy. To top it all off, I have the best team ever; they are all simultaneously competent and a genuine joy to be around--a killer combp.
+:herb:  I am currently working at an agency where I get to contribute to a variety of projects that use a nice diversity of tech stacks. I LOVE learning new things, so it is an absolute joy. To top it all off, I have the best team ever; they are all simultaneously competent and a genuine joy to be around--a killer combo.
 
 :herb:  I’m looking to collaborate on projects that challenge me and serve others. I am particularly interested in projects related to learning and education.
 
