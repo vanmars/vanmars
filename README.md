@@ -19,7 +19,6 @@
 <hr>
 
 - :speech_balloon:  Ask me about education technology and learning theory.
-- :mailbox:  How to reach me: vanmariestewart@gmail.com
 
 <img src='https://images.unsplash.com/photo-1524260855046-f743b3cdad07?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1101&q=80' alt='Evergreen trees covered in mist' style="height:200px; width: auto">
 <hr>
